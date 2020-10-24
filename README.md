@@ -13,7 +13,6 @@ Subscribing via Feedly (RIP Google Reader)
 * Changelog https://changelog.com/posts
 * Cloudera https://blog.cloudera.com
 * Cockroachlabs https://www.cockroachlabs.com/blog/engineering
-* nipafx https://nipafx.dev (previously CodeFX http://blog.codefx.org) ⭐
 * Colin Breck https://blog.colinbreck.com ⭐
 * Enthought https://www.enthought.com/blog
 * Etsy https://codeascraft.com
@@ -26,13 +25,14 @@ Subscribing via Feedly (RIP Google Reader)
 * Joe Duffy http://joeduffyblog.com
 * Julia Evans https://jvns.ca ⭐
 * Juxt https://juxt.pro/blog
+* nipafx https://nipafx.dev (previously CodeFX http://blog.codefx.org) ⭐
 * Marco Arment https://marco.org
 * Mark Otto https://markdotto.com
 * Martin Fowler https://martinfowler.com
 * Michael Feathers https://michaelfeathers.silvrback.com/feed
 * Netflix https://netflixtechblog.com
 * Panic https://panic.com/blog
-* Paul Graham http://www.paulgraham.com/
+* Paul Graham http://www.paulgraham.com
 * Pragmatic Engineer https://blog.pragmaticengineer.com
 * Rands In Repose https://randsinrepose.com
 * Riot Games https://technology.riotgames.com
